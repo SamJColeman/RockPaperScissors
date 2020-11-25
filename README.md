@@ -8,7 +8,7 @@ The below git repo contains a C# library that contains the interface and a coupl
 
 https://github.com/lovells4/RPS
 
-## Things I would do to improve things
+## Things I would do to improve if I had more time
 
 Obviously, this is just a test of my coding skills, so I have hopefully given a brief idea of that. Given that this was just a test, there are a number of things that I didn't do that I normally would in a production system, such as:
 
